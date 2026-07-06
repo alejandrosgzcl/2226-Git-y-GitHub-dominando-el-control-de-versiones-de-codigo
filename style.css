@@ -14,7 +14,12 @@ body {
 }
 
 p {
-    display: block;
+    display: block ;
+
+}
+p {
+    display: block ;
+    
 }
 
 body::before {
